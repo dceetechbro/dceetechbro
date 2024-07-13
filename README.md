@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dceetechbro
 - 👀 I’m interested in ... IT
 - 🌱 I’m currently learning ... Cybersecurity
-- 💞️ I’m looking to collaborate on ... Cybersecurity Engineering, Pen Testing, Ethical Hacking, GRC
+- 💞️ I’m looking to collaborate on ... Cybersecurity Engineering, Pen Testing, Ethical Hacking, Incident response 
 - 📫 How to reach me ... Email: Jsmartest.dc@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love Tasking projects
