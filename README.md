@@ -12,7 +12,7 @@ I’m Daniel, a passionate Frontend Developer with a strong focus on building us
 Skills
 
 	•	Languages: HTML, CSS, JavaScript, TypeScript
-	•	Frameworks/Tools: React,Git
+	•	Frameworks/Tools: React, Git, Firebase
 	•	Cybersecurity: Analyst, GRC, CompTIA Security+ Certified
 	•	Other: Responsive Design, Web Performance Optimization, Basic Penetration Testing
 
